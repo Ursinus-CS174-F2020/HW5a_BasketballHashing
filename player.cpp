@@ -1,32 +1,22 @@
-#include <stdio.h>
-#include <string>
-#include <iostream>
-#include <fstream>
-#include "hashable.h"
-#include "cloneable.h"
-#include "hashtable.h"
-#include "linkedmap.h"
+#include "player.h"
 
-using namespace std;
-
-class Player: public Cloneable {
-    public:
-        string name;
-        string school;
-        int height;
-        int weight;
-        int year;
-        Player(string name, string school, int height, int weight, int year) {
-            this->name = name;
-            this->school = school;
-            this->height = height;
-            this->weight = weight;
-            this->year = year;
-        }
-        Cloneable* clone() {
-            return new Player(name, school, height, weight, year);
-        }
-};
+Player::Player(string name, string school, int height, int weight, int year) {
+    this->name = name;
+    this->school = school;
+    this->height = height;
+    this->weight = weight;
+    this->year = year;
+}
+Cloneable* Player::clone() {
+    return new Player(name, school, height, weight, year);
+}
+void Player::printPlayer() {
+    cout << name << endl;
+    cout << "Birth Year: " << year << endl;
+    cout << "School: " << school << endl;
+    cout << "Height: " << height << endl;
+    cout << "Weight: " << weight << endl;
+}
 
 /**
  * Populate a map with all of the basketball players in the file 
@@ -45,31 +35,4 @@ void loadPlayers(Map* map) {
             
         }
     }
-    // TODO: To make sure this works properly, you might want to check that 
-    // the map contains "Allen Iverson" and "Charles Barkley" but that it does 
-    // not contain your name (unless I missed a big fun fact about you!),
-    // by using the containsKey() method.  You might also want to simply
-    // print out the name of each player to make sure the keys are right
-}
-
-
-void compareMaps() {
-    // TODO: Fill this in
-    // 1. Create a map m1 of type LinkedMap and a map m2 of type HashMap
-    // and fill them with the players.
-    // 2. Reset the operation counts of each map
-    // 3. Loop through all of the keys in m1 and make sure they're in m2
-    //    by calling the containsKey() method.  If they're not, print out
-    //    the ones that are missing to help you debug
-    // 4. Loop through all of the keys in m2 and make sure they're in m1
-    //    by calling the containsKey() method.  If they're not, print out
-    //    the ones that are missing to help you debug
-    // 5. Report the number of operations in steps 3 and 4, and the average
-    //    number of operations per player
-}
-
-
-int main() {
-    compareMaps();
-    return 0;
 }
