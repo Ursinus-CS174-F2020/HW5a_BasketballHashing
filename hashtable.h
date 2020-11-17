@@ -7,21 +7,25 @@
 class HashNode {
     public:
         Hashable* key;
-        void* value;
+        Cloneable* value;
         HashNode* next;
+        HashNode(Hashable* key, Cloneable* value);
+        ~HashNode();
 };
 
-class HashTable {
+class HashTable: public Map {
     private:
         size_t NBins;
         HashNode** table;
+        void removeFirst(size_t i);
     public:
         HashTable(size_t NBins);
         ~HashTable();
-        void put(Hashable* key, void* value);
-        void* get(Hashable* key);
-        void* remove(Hashable* key);
+        void put(Hashable* key, Cloneable* value);
+        Cloneable* get(Hashable* key);
+        void remove(Hashable* key);
         bool containsKey(Hashable* key);
+        Hashable** getKeyList(size_t* N);
 };
 
 #endif

@@ -4,27 +4,28 @@
 #include "hashable.h"
 #include "map.h"
 
-class Node {
+class LinkedNode {
     public:
         Hashable* key;
-        void* value;
-        Node* next;
-        Node(Hashable* key, void* value);
+        Cloneable* value;
+        LinkedNode* next;
+        LinkedNode(Hashable* key, Cloneable* value);
+        ~LinkedNode();
 };
 
 class LinkedMap: public Map {
     private:
-        Node* head;
         void removeFirst();
     public:
+        LinkedNode* head;
         LinkedMap();
         ~LinkedMap();
-        void put(Hashable* key, void* value);
-        void* get(Hashable* key);
-        void* remove(Hashable* key);
+        // It is assumed that the key is both Hashable and Cloneable
+        void put(Hashable* key, Cloneable* value);
+        Cloneable* get(Hashable* key);
+        void remove(Hashable* key);
         bool containsKey(Hashable* key);
         Hashable** getKeyList(size_t* N);
-        void** getValueList(size_t* N);
 };
 
 #endif
