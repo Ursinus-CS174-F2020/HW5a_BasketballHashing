@@ -10,7 +10,7 @@ using namespace std;
 LinkedNode::LinkedNode(Hashable* key, Cloneable* value) {
     this->key = (Hashable*)key->clone();
     this->value = value->clone();
-    next = nullptr;
+    next = NULL;
 }
 
 /**
@@ -38,7 +38,7 @@ void LinkedMap::removeFirst() {
  * is a null pointer
  */
 LinkedMap::LinkedMap() {
-    head = nullptr;
+    head = NULL;
 }
 
 /**
@@ -47,7 +47,7 @@ LinkedMap::LinkedMap() {
  */
 LinkedMap::~LinkedMap() {
     // Delete all nodes that have been allocated
-    while (head != nullptr) {
+    while (head != NULL) {
         removeFirst();
     }
 }
@@ -62,7 +62,7 @@ LinkedMap::~LinkedMap() {
 void LinkedMap::put(Hashable* key, Cloneable* value) {
     // Add a new key/value pair at the beginning
     LinkedNode* newLinkedNode = new LinkedNode(key, value);
-    if (head == nullptr) {
+    if (head == NULL) {
         head = newLinkedNode;
     }
     else {
@@ -78,13 +78,13 @@ void LinkedMap::put(Hashable* key, Cloneable* value) {
 * @return The corresponding value, or nullpointer if key is not in the map
 */
 Cloneable* LinkedMap::get(Hashable* key) {
-    Cloneable* ret = nullptr;
+    Cloneable* ret = NULL;
     LinkedNode* node = head;
-    while (node != nullptr && !node->key->equals(key)) {
+    while (node != NULL && !node->key->equals(key)) {
         numOps++;
         node = node->next;
     }
-    if (node != nullptr) {
+    if (node != NULL) {
         ret = node->value;
     }
     return ret;
@@ -97,19 +97,19 @@ Cloneable* LinkedMap::get(Hashable* key) {
  * @return value A pointer to the associated copy of the value
  */
 void LinkedMap::remove(Hashable* key) {
-    if (head != nullptr) {
+    if (head != NULL) {
         if (head->key->equals(key)) {
             removeFirst();
         }
         else {
             LinkedNode* last = head;
             LinkedNode* node = head->next;
-            while (node != nullptr && !node->key->equals(key)) {
+            while (node != NULL && !node->key->equals(key)) {
                 last = node;
                 node = node->next;
                 numOps++;
             } 
-            if (node != nullptr) {
+            if (node != NULL) {
                 last->next = node->next;
                 numOps++;
                 delete node;
@@ -127,11 +127,11 @@ void LinkedMap::remove(Hashable* key) {
 bool LinkedMap::containsKey(Hashable* key) {
     bool contains = false;
     LinkedNode* node = head;
-    while (node != nullptr && !node->key->equals(key)) {
+    while (node != NULL && !node->key->equals(key)) {
         node = node->next;
         numOps++;
     }
-    if (node != nullptr) {
+    if (node != NULL) {
         contains = true;
     }
     return contains;
@@ -147,14 +147,14 @@ bool LinkedMap::containsKey(Hashable* key) {
 Hashable** LinkedMap::getKeyList(size_t* N) {
     LinkedNode* node = head;
     *N = 0;
-    while (node != nullptr) {
+    while (node != NULL) {
         (*N)++;
         node = node->next;
     }
     node = head;
     Hashable** keyList = new Hashable*[*N];
     size_t i = 0;
-    while (node != nullptr) {
+    while (node != NULL) {
         keyList[i] = node->key;
         i++;
         node = node->next;
