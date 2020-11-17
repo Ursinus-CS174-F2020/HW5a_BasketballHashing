@@ -14,8 +14,8 @@ void Player::printPlayer() {
     cout << name << endl;
     cout << "Birth Year: " << year << endl;
     cout << "School: " << school << endl;
-    cout << "Height: " << height << endl;
-    cout << "Weight: " << weight << endl;
+    cout << "Height: " << height << " cm" << endl;
+    cout << "Weight: " << weight << " kg" << endl;
 }
 
 /**

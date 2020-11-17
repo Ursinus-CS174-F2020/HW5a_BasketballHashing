@@ -16,7 +16,7 @@ player.o: hashable.o linkedmap.o hashtable.o player.cpp player.h
 	$(CC) $(CFLAGS) -c player.cpp
 
 playerlookup: hashable.o linkedmap.o hashtable.o player.o playerlookup.cpp
-	$(CC) $(CFLAGS) -o player hashable.o linkedmap.o hashtable.o player.o playerlookup.cpp
+	$(CC) $(CFLAGS) -o playerlookup hashable.o linkedmap.o hashtable.o player.o playerlookup.cpp
 
 mapcheck: hashable.o linkedmap.o hashtable.o player.o player.h mapcheck.cpp
 	$(CC) $(CFLAGS) -o mapcheck hashable.o linkedmap.o hashtable.o player.o mapcheck.cpp
@@ -25,4 +25,4 @@ person: hashable.o linkedmap.o hashtable.o person.cpp
 	$(CC) $(CFLAGS) -o person hashable.o linkedmap.o hashtable.o person.cpp
 
 clean:
-	rm *.o player mapcheck person
+	rm *.o playerlookup mapcheck person
