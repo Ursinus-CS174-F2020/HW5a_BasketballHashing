@@ -1,3 +1,8 @@
+Player
+height
+weight
+collage
+born
 Curly Armstrong
 180
 77
@@ -1256,8 +1261,8 @@ Tulane University
 Alan Sawyer
 196
 88
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1928
 Herb Scherer
 206
 96
@@ -1276,8 +1281,8 @@ University of Southern California
 Don Barksdale
 198
 90
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1923
 Elmer Behnke
 201
 95
@@ -1351,8 +1356,8 @@ St. John's University
 Dave Minor
 188
 83
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1922
 Ralph O'Brien
 175
 72
@@ -2101,8 +2106,8 @@ Michigan State University
 John Barber
 198
 95
-"California State University
- Los Angeles"
+California State University, Los Angeles
+1927
 Gary Bergen
 203
 95
@@ -2171,8 +2176,8 @@ Canisius College
 Willie Naulls
 198
 102
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1934
 Jim Paxson
 198
 90
@@ -2451,8 +2456,8 @@ Texas Southern University
 Gary Alcorn
 206
 102
-"California State University
- Fresno"
+California State University, Fresno
+1936
 Bob Anderegg
 190
 90
@@ -3266,8 +3271,8 @@ University of North Carolina
 Keith Erickson
 196
 88
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1944
 John Fairchild
 203
 92
@@ -3281,8 +3286,8 @@ Grambling State University
 Gail Goodrich
 185
 77
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1943
 Fred Hetzel
 203
 99
@@ -3606,8 +3611,8 @@ University of North Dakota
 Johnny Jones
 201
 92
-"California State University
- Los Angeles"
+California State University, Los Angeles
+1943
 Nick Jones
 188
 86
@@ -3721,8 +3726,8 @@ Central State University
 Art Williams
 185
 81
-"California State Polytechnic University
- Pomona"
+California State Polytechnic University, Pomona
+1939
 Tom Workman
 201
 98
@@ -3916,8 +3921,8 @@ Western Kentucky University
 John Trapp
 201
 95
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1945
 Wes Unseld
 201
 111
@@ -3946,13 +3951,13 @@ University of Iowa
 Kareem Abdul-Jabbar
 218
 102
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1947
 Lucius Allen
 188
 79
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1947
 Wally Anderzunas
 201
 99
@@ -4026,8 +4031,8 @@ Bradley University
 Mike Lynn
 201
 97
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1945
 Willie McCarter
 190
 79
@@ -4251,8 +4256,8 @@ Stetson University
 Ron Knight
 201
 97
-"California State University
- Los Angeles"
+California State University, Los Angeles
+1947
 Sam Lacey
 208
 106
@@ -4376,8 +4381,8 @@ University of Michigan
 John Vallely
 190
 83
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1948
 Cornell Warner
 206
 99
@@ -4426,8 +4431,8 @@ Duquesne University
 Odis Allison
 198
 88
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1949
 Vic Bartolome
 213
 104
@@ -4566,8 +4571,8 @@ Alcorn State University
 Steve Patterson
 206
 102
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1948
 Tom Payne
 218
 108
@@ -4596,8 +4601,8 @@ Saint Peter's College
 Curtis Rowe
 201
 102
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1949
 Charlie Scott
 196
 79
@@ -4626,13 +4631,13 @@ University of Kentucky
 George Trapp
 203
 92
-"California State University
- Long Beach"
+California State University, Long Beach
+1948
 Sidney Wicks
 203
 102
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1949
 Nate Williams
 196
 97
@@ -4661,8 +4666,8 @@ Fordham University
 Henry Bibby
 185
 83
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1949
 Freddie Boyd
 188
 81
@@ -4776,13 +4781,13 @@ University of North Carolina
 Paul McCracken
 193
 81
-"California State University
- Northridge"
+California State University, Northridge
+1950
 Eric McWilliams
 203
 90
-"California State University
- Long Beach"
+California State University, Long Beach
+1950
 Mark Minor
 198
 97
@@ -4856,8 +4861,8 @@ Arizona State University
 Chuck Terry
 198
 97
-"California State University
- Long Beach"
+California State University, Long Beach
+1950
 Justus Thigpen
 185
 72
@@ -4866,8 +4871,8 @@ Weber State University
 John Tschogl
 198
 93
-"University of California
- Santa Barbara"
+University of California, Santa Barbara
+1950
 Paul Westphal
 193
 88
@@ -5056,8 +5061,8 @@ Arizona State University
 Ed Ratleff
 198
 88
-"California State University
- Long Beach"
+California State University, Long Beach
+1950
 Joe Reaves
 196
 95
@@ -5171,8 +5176,8 @@ University of Missouri
 Leonard Gray
 203
 108
-"California State University
- Long Beach"
+California State University, Long Beach
+1951
 Bernie Harris
 208
 90
@@ -5236,8 +5241,8 @@ Miami University
 Glenn McDonald
 198
 86
-"California State University
- Long Beach"
+California State University, Long Beach
+1952
 Eric Money
 183
 77
@@ -5311,8 +5316,8 @@ State University of West Georgia
 Bill Walton
 211
 95
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1952
 Perry Warbington
 188
 74
@@ -5336,8 +5341,8 @@ University of Detroit Mercy
 Jamaal Wilkes
 198
 86
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1953
 Earl Williams
 201
 104
@@ -5421,8 +5426,8 @@ Canisius College
 Don Ford
 206
 97
-"University of California
- Santa Barbara"
+University of California, Santa Barbara
+1952
 World B.
 206
 97
@@ -5441,8 +5446,8 @@ University of Kentucky
 Bob Gross
 198
 90
-"California State University
- Long Beach"
+California State University, Long Beach
+1953
 Lindsay Hairston
 201
 81
@@ -5501,8 +5506,8 @@ Indiana University
 Greg Lee
 190
 86
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1951
 Clyde Mayes
 203
 102
@@ -5536,8 +5541,8 @@ Southern Illinois University
 Dave Meyers
 203
 97
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1953
 Frank Oleynick
 188
 83
@@ -5546,8 +5551,8 @@ Seattle University
 Cliff Pondexter
 206
 105
-"California State University
- Long Beach"
+California State University, Long Beach
+1954
 Bill Robinzine
 201
 104
@@ -5581,8 +5586,8 @@ University of Notre Dame
 Ricky Sobers
 190
 89
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1953
 Terry Thomas
 203
 99
@@ -5936,8 +5941,8 @@ Indiana University
 Andre McCarter
 190
 86
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1953
 Ted McClain
 185
 81
@@ -5951,8 +5956,8 @@ University of Louisville
 Swen Nater
 211
 108
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1950
 Johnny Neumann
 198
 90
@@ -6111,8 +6116,8 @@ Jackson State University
 Richard Washington
 211
 99
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1955
 Marvin Webster
 216
 102
@@ -6266,8 +6271,8 @@ Southern Illinois University
 Glen Gondrezick
 198
 98
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1955
 Rickey Green
 183
 77
@@ -6301,8 +6306,8 @@ University of Kentucky
 Marques Johnson
 201
 98
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1956
 Eddie Jordan
 185
 77
@@ -6351,8 +6356,8 @@ University of North Carolina at Charlotte
 Larry Moffett
 203
 95
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1954
 Glenn Mosley
 203
 88
@@ -6366,8 +6371,8 @@ Duquesne University
 Eddie Owens
 201
 95
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1953
 Ben Poquette
 206
 106
@@ -6416,8 +6421,8 @@ University of Missouri
 Robert Smith
 180
 74
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1955
 Phil Walker
 190
 81
@@ -6461,8 +6466,8 @@ University of Arkansas
 Greg Bunch
 198
 86
-"California State University
- Fullerton"
+California State University, Fullerton
+1956
 Marty Byrnes
 201
 97
@@ -6631,8 +6636,8 @@ University of Kentucky
 Jackie Robinson
 198
 95
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1955
 John Rudd
 201
 104
@@ -6656,8 +6661,8 @@ Kentucky Wesleyan College
 Reggie Theus
 201
 86
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1957
 Mychal Thompson
 208
 102
@@ -6666,8 +6671,8 @@ University of Minnesota
 Raymond Townsend
 190
 79
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1955
 Terry Tyler
 201
 97
@@ -6771,8 +6776,8 @@ University of Detroit Mercy
 Earl Evans
 203
 91
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1955
 Mike Evans
 185
 77
@@ -6786,13 +6791,13 @@ DePaul University
 Dave Greenwood
 206
 100
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1957
 Roy Hamilton
 188
 81
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1957
 Gerald Henderson
 188
 79
@@ -6801,13 +6806,13 @@ Virginia Commonwealth University
 Johnny High
 190
 83
-"University of Nevada
- Reno"
+University of Nevada, Reno
+1957
 Brad Holland
 190
 81
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1956
 Phil Hubbard
 203
 97
@@ -6831,8 +6836,8 @@ University of California
 Magic Johnson
 201
 98
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1956
 Vinnie Johnson
 188
 90
@@ -6911,8 +6916,8 @@ Mississippi State University
 Sam Pellom
 206
 102
-"University at Buffalo
- State University of New York"
+University at Buffalo, State University of New York
+1951
 Clint Richardson
 190
 88
@@ -6956,8 +6961,8 @@ Arizona State University
 Darrell Allums
 206
 99
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1958
 Norman Black
 196
 83
@@ -7036,8 +7041,8 @@ University of Missouri
 Ralph Drollinger
 218
 113
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1954
 John Duren
 190
 88
@@ -7101,8 +7106,8 @@ University of Tennessee
 Edgar Jones
 208
 102
-"University of Nevada
- Reno"
+University of Nevada, Reno
+1956
 Walter Jordan
 201
 89
@@ -7196,8 +7201,8 @@ Indiana State University
 Mike Niles
 198
 102
-"California State University
- Fullerton"
+California State University, Fullerton
+1955
 Mike O'Koren
 201
 93
@@ -7301,13 +7306,13 @@ Old Dominion University
 Kiki Vandeweghe
 203
 99
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1958
 Brett Vroman
 213
 99
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1955
 Hawkeye Whitney
 201
 104
@@ -7316,13 +7321,13 @@ Iowa State University
 Michael Wiley
 206
 90
-"California State University
- Long Beach"
+California State University, Long Beach
+1957
 James Wilkes
 198
 86
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1953
 Jeff Wilkins
 211
 104
@@ -7436,8 +7441,8 @@ University of Kansas
 Craig Dykema
 203
 86
-"California State University
- Long Beach"
+California State University, Long Beach
+1959
 Franklin Edwards
 185
 77
@@ -7606,8 +7611,8 @@ University of Kansas
 Pete Verhoeven
 206
 97
-"California State University
- Fresno"
+California State University, Fresno
+1959
 Jay Vincent
 201
 99
@@ -7666,8 +7671,8 @@ J.J. Anderson
 Richard Anderson
 208
 108
-"University of California
- Santa Barbara"
+University of California, Santa Barbara
+1960
 John Bagley
 183
 83
@@ -7701,8 +7706,8 @@ University of San Francisco
 Mark Eaton
 224
 124
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1957
 Jerry Eaves
 193
 81
@@ -7746,13 +7751,13 @@ University of Arkansas
 Rod Higgins
 201
 90
-"California State University
- Fresno"
+California State University, Fresno
+1960
 Craig Hodges
 188
 86
-"California State University
- Long Beach"
+California State University, Long Beach
+1960
 Marc Iavaroni
 203
 95
@@ -7856,8 +7861,8 @@ Western Michigan University
 Mike Sanders
 198
 95
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1960
 Russ Schoene
 208
 95
@@ -7946,8 +7951,8 @@ University of Georgia
 Rickey Williams
 185
 79
-"California State University
- Long Beach"
+California State University, Long Beach
+1957
 Rob Williams
 190
 85
@@ -8006,8 +8011,8 @@ Purdue University
 Darren Daye
 203
 99
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1960
 Clyde Drexler
 201
 95
@@ -8026,8 +8031,8 @@ University of Tennessee
 Rod Foster
 185
 72
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1960
 John Garris
 203
 92
@@ -8246,8 +8251,8 @@ University of Connecticut
 Ron Anderson
 201
 97
-"California State University
- Fresno"
+California State University, Fresno
+1958
 Ken Bannister
 206
 106
@@ -8326,8 +8331,8 @@ University of Virginia
 Kenny Fields
 196
 99
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1962
 Vern Fleming
 196
 83
@@ -8346,13 +8351,13 @@ Yale University
 Stuart Gray
 213
 106
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1963
 Mike Holton
 193
 83
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1961
 Jay Humphries
 190
 83
@@ -8361,8 +8366,8 @@ University of Colorado
 Ralph Jackson
 188
 86
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1962
 Earl Jones
 213
 95
@@ -8371,8 +8376,8 @@ University of the District of Columbia
 Ozell Jones
 211
 106
-"California State University
- Fullerton"
+California State University, Fullerton
+1960
 Michael Jordan
 198
 88
@@ -8471,8 +8476,8 @@ Saint Mary's College of California
 Bernard Thompson
 198
 95
-"California State University
- Fresno"
+California State University, Fresno
+1962
 Otis Thorpe
 206
 102
@@ -8521,8 +8526,8 @@ University of Virginia
 Leon Wood
 190
 83
-"California State University
- Fullerton"
+California State University, Fullerton
+1962
 Danny Young
 190
 79
@@ -8711,8 +8716,8 @@ Wichita State University
 Ben McDonald
 203
 95
-"University of California
- Irvine"
+University of California, Irvine
+1962
 Chris McNealy
 201
 95
@@ -8796,8 +8801,8 @@ University of Iowa
 Bob Thornton
 208
 102
-"University of California
- Irvine"
+University of California, Irvine
+1962
 Wayman Tisdale
 206
 108
@@ -8941,13 +8946,13 @@ University of Georgia
 Kevin Henderson
 193
 88
-"California State University
- Fullerton"
+California State University, Fullerton
+1964
 Conner Henry
 201
 88
-"University of California
- Santa Barbara"
+University of California, Santa Barbara
+1963
 Jeff Hornacek
 190
 86
@@ -8971,8 +8976,8 @@ Murray State University
 Anthony Jones
 198
 88
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1962
 Tim Kempton
 208
 111
@@ -9061,8 +9066,8 @@ Southeastern Oklahoma State University
 Johnny Rogers
 208
 102
-"University of California
- Irvine"
+University of California, Irvine
+1963
 Ron Rowan
 196
 90
@@ -9146,8 +9151,8 @@ Georgetown University
 Brad Wright
 211
 102
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1962
 Perry Young
 196
 95
@@ -9236,8 +9241,8 @@ Missouri State University
 Armen Gilliam
 206
 104
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1964
 Horace Grant
 208
 97
@@ -9271,8 +9276,8 @@ St. John's University
 Michael Jackson
 201
 97
-"California State University
- Los Angeles"
+California State University, Los Angeles
+1949
 Kannard Johnson
 206
 99
@@ -9311,8 +9316,8 @@ University of Alabama
 Reggie Miller
 201
 83
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1965
 Andre Moore
 206
 97
@@ -9331,8 +9336,8 @@ Jacksonville University
 Tod Murphy
 206
 99
-"University of California
- Irvine"
+University of California, Irvine
+1963
 Martin Nessley
 218
 117
@@ -9381,8 +9386,8 @@ University of Montana
 Mark Wade
 180
 72
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1965
 Milt Wagner
 196
 83
@@ -9476,8 +9481,8 @@ University of Oklahoma
 Scott Brooks
 180
 74
-"University of California
- Irvine"
+University of California, Irvine
+1965
 Mark Bryant
 206
 111
@@ -9531,8 +9536,8 @@ DePaul University
 Wayne Englestad
 203
 111
-"University of California
- Irvine"
+University of California, Irvine
+1966
 Rolando Ferreira
 216
 108
@@ -9596,8 +9601,8 @@ Iowa State University
 Jack Haley
 208
 108
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1964
 Hersey Hawkins
 190
 86
@@ -9691,8 +9696,8 @@ Auburn University
 Richard Morton
 190
 86
-"California State University
- Fullerton"
+California State University, Fullerton
+1966
 Craig Neal
 196
 74
@@ -9766,8 +9771,8 @@ University of Minnesota
 Brian Shaw
 198
 86
-"University of California
- Santa Barbara"
+University of California, Santa Barbara
+1966
 Keith Smart
 185
 79
@@ -9821,8 +9826,8 @@ University of Utah
 Morlon Wiley
 193
 83
-"California State University
- Long Beach"
+California State University, Long Beach
+1966
 Micheal Williams
 188
 82
@@ -9831,8 +9836,8 @@ Lincoln University of Missouri
 David Wood
 206
 102
-"University of Nevada
- Reno"
+University of Nevada, Reno
+1964
 Nick Anderson
 198
 92
@@ -10146,8 +10151,8 @@ University of Michigan
 Pooh Richardson
 185
 81
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1966
 Clifford Robinson
 206
 99
@@ -10241,8 +10246,8 @@ Duke University
 Mahmoud Abdul-Rauf
 188
 83
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1942
 Keith Askins
 201
 89
@@ -10306,8 +10311,8 @@ Temple University
 Cedric Ceballos
 198
 86
-"California State University
- Fullerton"
+California State University, Fullerton
+1969
 Richard Coffey
 198
 96
@@ -10486,8 +10491,8 @@ Georgia Institute of Technology
 Gerald Paddio
 201
 92
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1965
 Walter Palmer
 216
 97
@@ -10581,8 +10586,8 @@ University of North Carolina
 Trevor Wilson
 201
 95
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1968
 Kennard Winchester
 196
 95
@@ -10611,13 +10616,13 @@ Georgia Institute of Technology
 Greg Anthony
 183
 79
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1967
 Stacey Augmon
 203
 92
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1968
 Isaac Austin
 208
 115
@@ -10811,8 +10816,8 @@ Syracuse University
 Keith Owens
 201
 102
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1969
 Robert Pack
 188
 81
@@ -11066,8 +11071,8 @@ University of Houston
 Don MacLean
 208
 106
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1970
 Marlon Maxey
 203
 113
@@ -11101,8 +11106,8 @@ Georgetown University
 Tracy Murray
 201
 102
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1971
 Melvin Newbern
 193
 90
@@ -11166,8 +11171,8 @@ Northern Arizona University
 Elmore Spencer
 213
 122
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1969
 Latrell Sprewell
 196
 86
@@ -11366,8 +11371,8 @@ University of Memphis
 Lucious Harris
 196
 86
-"California State University
- Long Beach"
+California State University, Long Beach
+1970
 Antonio Harvey
 211
 102
@@ -11456,8 +11461,8 @@ Georgia Institute of Technology
 Gerald Madkins
 193
 90
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1969
 Bob Martin
 213
 113
@@ -11501,8 +11506,8 @@ Michigan State University
 Richard Petruska
 208
 117
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1969
 Dino Radja
 211
 102
@@ -11511,8 +11516,8 @@ Dino Radja
 Isaiah Rider
 196
 97
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1971
 Eric Riley
 213
 111
@@ -11521,8 +11526,8 @@ University of Michigan
 James Robinson
 198
 95
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1955
 Rodney Rogers
 201
 106
@@ -11531,8 +11536,8 @@ Wake Forest University
 Bryon Russell
 201
 102
-"California State University
- Long Beach"
+California State University, Long Beach
+1970
 Kevin Thompson
 211
 117
@@ -11681,8 +11686,8 @@ Kansas State University
 Eddie Jones
 208
 102
-"University of Nevada
- Reno"
+University of Nevada, Reno
+1956
 Jason Kidd
 193
 92
@@ -11706,8 +11711,8 @@ University of Connecticut
 Darrick Martin
 180
 77
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1971
 Jim McIlvaine
 216
 108
@@ -11986,8 +11991,8 @@ University of Florida
 Tyus Edney
 178
 68
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1973
 Vincenzo Esposito
 190
 89
@@ -12111,8 +12116,8 @@ University of Louisiana at Monroe
 Ed O'Bannon
 203
 100
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1972
 Greg Ostertag
 218
 127
@@ -12241,8 +12246,8 @@ Oklahoma State University
 George Zidek
 213
 113
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1973
 Shareef Abdur-Rahim
 206
 102
@@ -12261,13 +12266,13 @@ University of Georgia
 Dexter Boney
 193
 83
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1970
 Bruce Bowen
 201
 83
-"California State University
- Fullerton"
+California State University, Fullerton
+1971
 Mark Bradtke
 208
 120
@@ -12361,8 +12366,8 @@ Clemson University
 Evric Gray
 201
 106
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1969
 Darvin Ham
 201
 99
@@ -12796,8 +12801,8 @@ University of Wisconsin-Green Bay
 Charles O'Bannon
 196
 94
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1975
 Kevin Ollie
 193
 88
@@ -12836,8 +12841,8 @@ Providence College
 Kebu Stewart
 203
 108
-"California State University
- Bakersfield"
+California State University, Bakersfield
+1973
 Michael Stewart
 208
 104
@@ -12916,8 +12921,8 @@ Liberty University
 Toby Bailey
 198
 96
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1975
 LaMark Baker
 185
 79
@@ -12956,8 +12961,8 @@ University of North Carolina
 Keon Clark
 211
 99
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1975
 Kornel David
 206
 106
@@ -13021,8 +13026,8 @@ Saint Louis University
 Randell Jackson
 188
 86
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1962
 Sam Jacobson
 193
 97
@@ -13086,8 +13091,8 @@ University of Southern Mississippi
 Jelani McCoy
 208
 111
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1977
 Roshown McLeod
 203
 100
@@ -13121,8 +13126,8 @@ University of North Carolina
 Tyrone Nesby
 198
 102
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1976
 Rasho Nesterovic
 213
 112
@@ -13241,8 +13246,8 @@ Korleone Young
 Rafer Alston
 188
 77
-"California State University
- Fresno"
+California State University, Fresno
+1976
 Chucky Atkins
 180
 72
@@ -13321,8 +13326,8 @@ University of Pittsburgh
 Baron Davis
 190
 94
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1979
 Derrick Dial
 193
 83
@@ -13371,8 +13376,8 @@ University of Connecticut
 Chris Herren
 188
 89
-"California State University
- Fresno"
+California State University, Fresno
+1975
 Derek Hood
 203
 100
@@ -13436,8 +13441,8 @@ Duke University
 Shawn Marion
 201
 99
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1978
 Andre Miller
 206
 102
@@ -13726,8 +13731,8 @@ University of Florida
 Jerome Moiso
 208
 106
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1978
 Hanno Mottola
 211
 112
@@ -13801,13 +13806,13 @@ DePaul University
 Terrance Roberson
 201
 97
-"California State University
- Fresno"
+California State University, Fresno
+1976
 Jamal Robinson
 198
 95
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1955
 Soumaila Samake
 213
 104
@@ -14036,8 +14041,8 @@ Antonis Fotsis
 Tremaine Fowlkes
 203
 99
-"California State University
- Fresno"
+California State University, Fresno
+1976
 Pau Gasol
 213
 113
@@ -14211,8 +14216,8 @@ University of Alabama
 Earl Watson
 185
 88
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1979
 Rodney White
 203
 95
@@ -14286,8 +14291,8 @@ University of Maryland
 Melvin Ely
 208
 117
-"California State University
- Fresno"
+California State University, Fresno
+1978
 Reggie Evans
 203
 111
@@ -14296,8 +14301,8 @@ University of Iowa
 Dan Gadzuric
 211
 108
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1978
 Manu Ginobili
 198
 92
@@ -14331,8 +14336,8 @@ Wingate University
 Juaquin Hawkins
 201
 99
-"California State University
- Long Beach"
+California State University, Long Beach
+1973
 Nene Hilario
 211
 113
@@ -14361,8 +14366,8 @@ Marko Jaric
 Chris Jefferies
 203
 102
-"California State University
- Fresno"
+California State University, Fresno
+1980
 Jared Jeffries
 211
 104
@@ -14381,8 +14386,8 @@ University of California
 Tito Maddox
 193
 86
-"California State University
- Fresno"
+California State University, Fresno
+1981
 Roger Mason
 196
 90
@@ -14541,8 +14546,8 @@ Syracuse University
 Marcus Banks
 188
 90
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1981
 Leandro Barbosa
 190
 87
@@ -14666,8 +14671,8 @@ Gonzaga University
 Hiram Fuller
 206
 108
-"California State University
- Fresno"
+California State University, Fresno
+1981
 Reece Gaines
 198
 92
@@ -14751,8 +14756,8 @@ Central Michigan University
 Jason Kapono
 203
 96
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1981
 Kyle Korver
 201
 96
@@ -14881,8 +14886,8 @@ Brigham Young University
 Trevor Ariza
 203
 97
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1985
 Maurice Baker
 185
 79
@@ -15136,13 +15141,13 @@ University of Southern Colorado
 Kirk Snyder
 198
 102
-"University of Nevada
- Reno"
+University of Nevada, Reno
+1983
 Pape Sow
 208
 113
-"California State University
- Fullerton"
+California State University, Fullerton
+1981
 Awvee Storey
 198
 100
@@ -15296,8 +15301,8 @@ Duke University
 Noel Felix
 206
 102
-"California State University
- Fresno"
+California State University, Fresno
+1981
 Raymond Felton
 185
 92
@@ -15561,8 +15566,8 @@ University of Alabama at Birmingham
 Dijon Thompson
 201
 88
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1983
 Ronny Turiaf
 208
 112
@@ -15621,8 +15626,8 @@ Texas A&M University
 Bracey Wright
 211
 102
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1962
 Derrick Zimmerman
 190
 88
@@ -15646,8 +15651,8 @@ University of Texas at Austin
 Lou Amundson
 206
 99
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1982
 Hilton Armstrong
 211
 106
@@ -15691,8 +15696,8 @@ University of Connecticut
 Cedric Bozeman
 198
 93
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1983
 Ronnie Brewer
 193
 81
@@ -15741,8 +15746,8 @@ Rutgers University
 Jordan Farmar
 188
 81
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1986
 Desmon Farmer
 196
 99
@@ -15801,8 +15806,8 @@ University of Miami
 Ryan Hollins
 213
 108
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1984
 Mile Ilic
 216
 104
@@ -15841,8 +15846,8 @@ Villanova University
 Renaldo Major
 201
 90
-"California State University
- Fresno"
+California State University, Fresno
+1982
 Damir Markota
 208
 102
@@ -15896,8 +15901,8 @@ Bradley University
 Kevinn Pinkney
 208
 111
-"University of Nevada
- Reno"
+University of Nevada, Reno
+1983
 Leon Powe
 203
 108
@@ -16021,8 +16026,8 @@ University of North Carolina
 Arron Afflalo
 196
 95
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1985
 Blake Ahearn
 188
 86
@@ -16041,8 +16046,8 @@ Rice University
 Joel Anthony
 206
 111
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1982
 Marco Belinelli
 196
 95
@@ -16106,8 +16111,8 @@ University of Texas at Austin
 Nick Fazekas
 211
 106
-"University of Nevada
- Reno"
+University of Nevada, Reno
+1985
 Kyrylo Fesenko
 216
 130
@@ -16191,8 +16196,8 @@ Ian Mahinmi
 Dominic McGuire
 206
 99
-"California State University
- Fresno"
+California State University, Fresno
+1985
 Josh McRoberts
 208
 108
@@ -16256,8 +16261,8 @@ Luis Scola
 Ramon Sessions
 190
 86
-"University of Nevada
- Reno"
+University of Nevada, Reno
+1986
 Courtney Sims
 208
 111
@@ -16316,8 +16321,8 @@ Boston College
 Brandan Wright
 211
 102
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1962
 Julian Wright
 203
 102
@@ -16521,8 +16526,8 @@ Stanford University
 Kevin Love
 208
 113
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1988
 Cartier Martin
 201
 99
@@ -16541,8 +16546,8 @@ Luc Mbah
 JaVale McGee
 213
 122
-"University of Nevada
- Reno"
+University of Nevada, Reno
+1988
 Anthony Morrow
 196
 95
@@ -16626,8 +16631,8 @@ University of Arkansas
 Russell Westbrook
 190
 90
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1988
 D.J. White
 190
 90
@@ -16701,8 +16706,8 @@ University of Louisville
 Darren Collison
 183
 79
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1987
 Dante Cunningham
 203
 104
@@ -16771,8 +16776,8 @@ Northwestern State University
 Danny Green
 206
 100
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1957
 Taylor Griffin
 201
 107
@@ -16796,8 +16801,8 @@ University of Arizona
 Jrue Holiday
 193
 92
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1990
 Lester Hudson
 190
 86
@@ -16956,8 +16961,8 @@ Omer Asik
 Luke Babbitt
 206
 102
-"University of Nevada
- Reno"
+University of Nevada, Reno
+1989
 Eric Bledsoe
 185
 86
@@ -17056,8 +17061,8 @@ University of Massachusetts Amherst
 Paul George
 206
 99
-"California State University
- Fresno"
+California State University, Fresno
+1990
 Blake Griffin
 208
 113
@@ -17386,8 +17391,8 @@ University of New Mexico
 Tyler Honeycutt
 203
 85
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1990
 Dennis Horner
 206
 104
@@ -17451,8 +17456,8 @@ Stanford University
 Malcolm Lee
 196
 90
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1990
 Kawhi Leonard
 201
 104
@@ -17661,8 +17666,8 @@ Baylor University
 Josh Akognon
 180
 83
-"California State University
- Fullerton"
+California State University, Fullerton
+1986
 Harrison Barnes
 190
 92
@@ -17791,8 +17796,8 @@ Vanderbilt University
 Orlando Johnson
 196
 99
-"University of California
- Santa Barbara"
+University of California, Santa Barbara
+1989
 Darius Johnson-Odom
 201
 95
@@ -18056,8 +18061,8 @@ Iowa State University
 Anthony Bennett
 203
 111
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1993
 Vander Blue
 193
 90
@@ -18276,8 +18281,8 @@ Purdue University
 Shabazz Muhammad
 198
 101
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1992
 Erik Murphy
 208
 104
@@ -18301,8 +18306,8 @@ Nemanja Nedovic
 James Nunnally
 201
 92
-"University of California
- Santa Barbara"
+University of California, Santa Barbara
+1990
 Victor Oladipo
 193
 95
@@ -18381,8 +18386,8 @@ Georgetown University
 Casper Ware
 178
 79
-"California State University
- Long Beach"
+California State University, Long Beach
+1990
 Royce White
 203
 95
@@ -18406,8 +18411,8 @@ Indiana University
 Jordan Adams
 196
 94
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1994
 Furkan Aldemir
 208
 108
@@ -18416,8 +18421,8 @@ Furkan Aldemir
 Kyle Anderson
 206
 104
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1993
 Cameron Bairstow
 206
 113
@@ -18511,8 +18516,8 @@ Wichita State University
 James Ennis
 201
 95
-"California State University
- Long Beach"
+California State University, Long Beach
+1990
 Tyler Ennis
 190
 87
@@ -18601,8 +18606,8 @@ University of Arizona
 Tyler Johnson
 193
 84
-"California State University
- Fresno"
+California State University, Fresno
+1992
 Sean Kilpatrick
 193
 95
@@ -18621,8 +18626,8 @@ Joffrey Lauvergne
 Zach LaVine
 196
 85
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1995
 Kalin Lucas
 185
 88
@@ -18776,13 +18781,13 @@ T.J. Warren
 David Wear
 208
 104
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1990
 Travis Wear
 208
 104
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1990
 Shayne Whittington
 211
 113
@@ -18971,8 +18976,8 @@ University of Kansas
 Kevon Looney
 206
 99
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1996
 Trey Lyles
 208
 106
@@ -19076,8 +19081,8 @@ Kristaps Porzingis
 Norman Powell
 193
 97
-"University of California
- Los Angeles"
+University of California, Los Angeles
+1993
 Willie Reed
 206
 106
@@ -19131,8 +19136,8 @@ University of Texas at Austin
 Rashad Vaughn
 198
 91
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1996
 Briante Weber
 188
 74
@@ -19151,8 +19156,8 @@ Duke University
 Christian Wood
 211
 99
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1995
 Delon Wright
 196
 83
@@ -19416,8 +19421,8 @@ Thon Maker
 Patrick McCaw
 201
 83
-"University of Nevada
- Las Vegas"
+University of Nevada, Las Vegas
+1995
 Sheldon McClellan
 196
 90
@@ -19451,8 +19456,8 @@ Iowa State University
 David Nwaba
 193
 94
-"California Polytechnic State University
- San Luis Obispo"
+California Polytechnic State University, San Luis Obispo
+1993
 Daniel Ochefu
 211
 111
