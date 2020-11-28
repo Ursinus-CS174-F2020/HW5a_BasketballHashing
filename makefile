@@ -25,4 +25,4 @@ person: hashable.o linkedmap.o hashtable.o person.cpp
 	$(CC) $(CFLAGS) -o person hashable.o linkedmap.o hashtable.o person.cpp
 
 clean:
-	rm *.o playerlookup mapcheck person
+	rm *.o *.exe *.stackdump playerlookup mapcheck person
