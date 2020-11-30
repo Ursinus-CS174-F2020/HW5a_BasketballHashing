@@ -1,7 +1,7 @@
 CC=g++
 CFLAGS=-std=c++11 -g -Wall 
 
-all: playerlookup mapcheck person
+all: playerlookup mapcheck person stringtest
 
 hashable.o: hashable.cpp hashable.h
 	$(CC) $(CFLAGS) -c hashable.cpp 
@@ -24,5 +24,8 @@ mapcheck: hashable.o linkedmap.o hashtable.o player.o player.h mapcheck.cpp
 person: hashable.o linkedmap.o hashtable.o person.cpp
 	$(CC) $(CFLAGS) -o person hashable.o linkedmap.o hashtable.o person.cpp
 
+stringtest: hashable.o stringtest.cpp
+	$(CC) $(CFLAGS) -o stringtest hashable.o stringtest.cpp
+
 clean:
-	rm *.o *.exe *.stackdump playerlookup mapcheck person
+	rm *.o playerlookup mapcheck person
